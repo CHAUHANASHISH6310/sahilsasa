@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+
+.flex-container {
+  background-color: #212121;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  position: fixed;
+  height: 60px !important;
+  overflow: hidden;
+  z-index: 10;
+}
+.aa {
+  background-color: none;
+  padding: 10px;
+  display: flex;
+  margin-left: 100px;
+  width: 10%;
+}
+
+.a {
+  background-color: none;
+  padding: 0px;
+  display: flex;
+  width: 30%;
+}
+
+
+
+.c {
+  background-color: none;
+  padding: 10px;
+
+  width: 40%;
+  display: flex;
+}
+
+/* Responsive layout - makes a one column-layout instead of a two-column layout */
+
+/*
+
+  <div class="header">
+
+  <div>
+    <form class="example" action="/action_page.php" margin-right="120px" style="width:600px ">
+      <input type="text" placeholder="Search" style="color: #ffff;" name="search2">
+      <button type="submit"><i class="fa fa-search"></i>
+      </button>
+    </form>
+  </div>
+  <!-- this is uplode php file  -->
+  <form action="123/image-upload-php-and-mysql-main/index.php" class="leftuplode" method="POST">
+    <button type="submit"><i class="fa fa-plus-square-o"></i> </button>
+  </form>
+</div>
+<!-- end-->
+
+<div>
+<input type="checkbox" class="openSidebarMenu" id="openSidebarMenu" />
+<label for="openSidebarMenu" class="sidebarIconToggle">
+  <div class="ashish">
+    <i class="fa fa-bars" style="font-size: 24px"></i>
+  </div>
+</label>
+</div>
+
+
+
+/html/body/div[1]/section/nav/div[2]/div/div/div[2]
+<input aria-label="Search Input" autocapitalize="none" class="XTCLo d_djL DljaH" placeholder="Search" type="text" value=""><div class="jLwSh" role="dialog"></div><div class=" yAU5O coreSpriteSearchClear" aria-disabled="false" aria-label="Clear the search box" style="cursor: pointer;" role="button" tabindex="0"></div><div class="yPP5B"><div aria-hidden="false" class="uo5MA   _2ciX tWgj8 XWrBI "><div class="AvhYw nLL4f" style="left: 187.5px;"></div><div class="_01UL2"><div class="fuqBx "><div class="_43CKF"><h4 class="_7UhW9    vy6Bb       qyrsm KV-D4          uL8Hv        T0kll ">Recent</h4></div><div class="lWmzy" data-testid="no-recent-results-section"><div class="_7UhW9   xLCgt        qyrsm  _0PwGv         uL8Hv     l4b0S    ">No recent searches.</div></div></div></div><div class="TOh1s"></div></div></div>
+*/
